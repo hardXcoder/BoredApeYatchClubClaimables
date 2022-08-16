@@ -3,7 +3,10 @@ Let's you find all the BAYC/MAYC/BAKC # which are still claimable for $APE token
 
 
 # STEPS
-git clone
-cd 
+git clone  
+
+cd	
+
 node ApeTokenClaim.js
+
 
