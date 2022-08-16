@@ -3,9 +3,9 @@ Let's you find all the BAYC/MAYC/BAKC # which are still claimable for $APE token
 
 
 # STEPS
-git clone  
+git clone  https://github.com/hardXcoder/BoredApeYatchClubClaimables.git
 
-cd	
+cd BoredApeYatchClubClaimables
 
 node ApeTokenClaim.js
 
